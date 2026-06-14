@@ -41170,7 +41170,7 @@ document.addEventListener("DOMContentLoaded", () => {
     _0xcf7c1b.disabled = true;
     _0xcf7c1b.innerHTML = "<span class=\"pulse\">VERIFYING...</span>";
     try {
-      const _0x53c33b = await fetch("https://330-kappa.vercel.app/api/verify", {
+      const _0x53c33b = await fetch("https://330-plum.vercel.app/api/verify", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
